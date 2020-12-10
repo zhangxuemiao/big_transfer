@@ -163,3 +163,5 @@ KNOWN_MODELS = dict(
    for bit in ['BiT-S', 'BiT-M']
    for l, w in [(50, 1), (50, 3), (101, 1), (152, 2), (101, 3), (152, 4)]]
 )
+
+print(KNOWN_MODELS)
